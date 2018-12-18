@@ -1,5 +1,5 @@
 # CRowdCLassic Masternode Windows Hot Wallet Guide + Sentinel
-Sentinel for using with masternode in 64-bit Windows 
+* W A R N I N G : The only way you can set MN on Win is when your network interface has external IP. This is because of the way the MN checks itself to see if it is capable of. To put it in laymans terms: you have to actually put LAN cable coming from your ISP into your network card. *
 
 First go to https://github.com/CRowdCLassic/crowdclassic-core/releases and download the wallet
 after it Synchronizes go to Receive Tab and created an address
