@@ -109,13 +109,13 @@ Right click properties
 Go to the path and just after the .exe hit space
 And paste this:	( this is the path of the crowdclassic.conf that you have edited)
 
-"--config=C:\Users>USER<\AppData\Roaming\CRowdCLassicCore\crowdclassic.conf"
+"--config=C:\Users\USER\AppData\Roaming\CRowdCLassicCore\crowdclassic.conf"
 
-** note USER is your username so you should add your own
+** note USER is your Windows username so you should add your own
 
 Final it looks like this:
 
-C:\Users>USER<\Desktop\sentinel-win64.exe "--config=C:\Users>USER<\AppData\Roaming\CRowdCLassicCore\crowdclassic.conf"
+C:\Users\USER\Desktop\sentinel-win64.exe "--config=C:\Users>USER<\AppData\Roaming\CRowdCLassicCore\crowdclassic.conf"
 
 Now press ok and double click the short cut you should see this
 
